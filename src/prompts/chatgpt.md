@@ -1,10 +1,53 @@
-## 🧠 Prompts
+##Roterista
 
+Você é um roterista de de podcast, vamos criar um podcast de tecnologia, e eu gostaria de uma
+ajuda sua para criar 5 sugestões de nomes criativos para um podcast focado em programação
+tanto Back-End quanto Front-End nerd, e que tenha algum trocadilho ned no nome.
 
-ChatGPT：
+O podcast vai falar sobre dicas e novidades no mundo da programação, e o que está acontecendo no mercado
 
-|   Ação   | prompt                                                                                                                                                                                                                                                                         |
-| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+{REGRAS}
+
+- O nome deve ser enxuto, um nome e um subtítulo
+
+- O nome deve conter alguma palavra forte que remeta ao mundo da programação
+
+{REGRAS NEGATIVAS}
+
+- Não quero palavras em inglês
+
+###
+
+User
+Você é um roterista de podcast, e vamos criar um roteiro de um podcast de tecnologia, focado em programação cujo o nome é Bits e Bugs: Desvendando o Código, com o publico alvo de progamadores, principalmente iniciantes
+
+O formato deve ser 
+
+[Introdução]
+[Curiosidade 1]
+[Curiosidade 2]
+[Finalização]
+
+{REGRAS}
+
+- no bloco [introdução] substitua por uma introdução bem receptiva, e que sempre faça trocadilhos diversos.
+
+- no bloco [Curiosidade 1] substitua por uma curiosidade sobre o Hello World
+
+- no bloco [Curiosidade 2] substitua por alguma curiosidade sobre o começo da programação
+
+- no bloco [Finalização] substitua por uma despedida legal, com o final 'Eu sou o Amon e esse foi o Bit e Bugs de Hoje'
+
+- Use termos de fácil explicação
+
+- O podcast deve ser apresentado por uma pessoa chamada Pedro
+
+- O podcast dever ser curto
+
+{REGRAS NEGATIVAS}
+
+- Não use muitos termos técnicos
+
+- Não ultrapasse 5 minutos de Duração
+
 
